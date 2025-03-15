@@ -13,7 +13,7 @@ This project is a Python-based application that converts American Sign Language 
 ---
 
 ## 🛠️ Tech Stack  
-- **Programming Language**: Python  
+- **Programming Language**: Python 3.9
 - **Libraries**:  
   - [Mediapipe](https://google.github.io/mediapipe/)  (version 0.10.18)
   - [CVZone](https://github.com/cvzone/cvzone)  (version 1.5.6)
