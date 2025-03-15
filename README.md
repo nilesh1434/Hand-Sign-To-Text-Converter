@@ -15,16 +15,18 @@ This project is a Python-based application that converts American Sign Language 
 ## 🛠️ Tech Stack  
 - **Programming Language**: Python  
 - **Libraries**:  
-  - [Mediapipe](https://google.github.io/mediapipe/)  
-  - [CVZone](https://github.com/cvzone/cvzone)  
-  - [TensorFlow](https://www.tensorflow.org/)
+  - [Mediapipe](https://google.github.io/mediapipe/)  (version 0.10.18)
+  - [CVZone](https://github.com/cvzone/cvzone)  (version 1.5.6)
+  - [TensorFlow](https://www.tensorflow.org/)  (version 2.12.1)
+  - [opencv-python](https://pypi.org/project/opencv-python/)  (version 4.5.5.64)
+  - [protobuf](https://protobuf.dev/)  (version 4.25.6)
  
 ---
 
 ## 🚀 Getting Started  
 
 ### 1️⃣ Prerequisites  
-Ensure you have Python installed (preferably version 3.7+).  
+Ensure you have Python installed (preferably version 3.9).  
 
 ### 2️⃣ Clone the Repository  
 ```bash  
